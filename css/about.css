@@ -1,0 +1,34 @@
+.aboutpage{
+    min-height: 50px;
+    background-color: #f7f7f7;
+    font-weight: revert;
+    padding: 40px 0px;
+}
+.ah1{
+    font-size: 65px;
+    color: rgb(255, 4, 4);
+    font-weight: bold;
+    font-family: kalpurush;
+}
+.ap{
+    font-size: 20px;
+    font-weight: bolder;
+    color: rgb(0, 0, 0);
+    font-family: nikosh;
+    text-align: justify;
+}
+.ah11{
+    padding-top: 100px;
+    padding-bottom: 20px;
+    font-size: 55px;
+    font-family: Li Halder Sourik Unicode;
+    color: red;
+}
+.trainning{
+    max-width: 100%;
+    height: auto;
+    vertical-align: middle;
+    overflow-clip-margin: content-box;
+    text-align: center;
+    margin: 70px;
+}

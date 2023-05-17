@@ -1,0 +1,318 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,600,700|Roboto:300,400,500,700');
+
+
+body{
+    background-color: mediumaquamarine;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: normal;
+    font-style: normal;    
+}
+/* header start */
+.top-header{
+    background-color: #002147;
+    min-height: 20px;    
+    padding: 10px;
+}
+.contactand-icon{
+    display: flex;
+}
+.top-number{
+    color:#fff;
+    padding-left: 50px;
+}
+.top-number img{
+    color: #fdc800;
+    vertical-align: middle;
+    font-size: 18px;
+    line-height: 1;
+    margin-right: 9px;
+    height: 12px;
+    width: 12px;
+}
+.top-number p{
+    display: inline-block;
+    margin: 0;
+    font-size: 11px;
+    color: #fff;
+    line-height: 1;
+}
+.social-icon-list{
+    text-align: right;    
+}
+.social-icon-list a img{   
+    height: 18px;
+    width: 18px;
+    margin-left: 5px;
+}
+
+.main-manu{
+    background-color: #fff;
+    min-height: 90px;
+    display: flex;
+    padding-top: 13px;
+    line-height: 1.5;
+}
+.logo-name-part{
+    padding: 15px;
+}
+
+.logo-name-part img{
+    height: 40px;
+}
+
+.logo-name-part h2{
+    display: inline-block;
+    font-size: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#navbarSupportedContent ul li a{
+    transition: 0.3s !important;
+}
+#navbarSupportedContent ul li a:hover{
+    color: aqua !important;
+}
+.dropdown-toggle{
+    font-weight: bold !important;
+}
+.me-2{
+    width: 180px !important;
+}
+.main-about-part{
+    padding-top: 35px;
+    min-height: 500px;
+    background-color: white;
+}
+/* header end */
+
+/* main about part start */
+.content-about-part h1{
+    color: #002147;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 40px;
+    font-weight: revert;
+}
+.content-about-part p {
+    width: 550px;
+    font-family: SutonnyUniBanglaOMJ;
+    padding-right: 50px;
+    /* font-weight: 900; */
+    font-size: 15px;
+    
+}
+/* About Part Start */
+.about-p{
+    font-family: Li Alinur Prottoyoee Unicode !important;
+    font-weight: 900;
+    font-size: 25px;
+}
+.about-part-img img{
+    height: 418px;
+    padding-left: 35px;
+}
+/* About Part end */
+
+/* Main Course Part Start */
+.main-course-part{
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 80px;
+    background-color: steelblue;
+    padding: 35px;
+}
+.course-hader{
+    font-size: 35px;
+    color: #fff;
+    font-weight: 900;
+    line-height: 1;
+    margin: 0;
+    margin-bottom: 31px;
+    font-family: Stencil;
+    text-align: center;
+}
+.card{
+    margin: 35px !important;
+    padding: 5px !important;
+}
+.card-body p{
+    background-color: #84ac4f;
+    color: #fff;
+    display: inline;
+    padding: 4px;
+}
+.card-body a{
+    margin-top: 25px;
+}
+
+/* Main Course Part End */
+
+
+
+
+
+
+
+/* Vidoe part start*/
+.video-area{
+    min-height: 100px;
+    background-color: antiquewhite;
+    padding: 35px;
+    text-align: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.video-area video{
+    width: 720px;
+}
+/* Vidoe part end*/
+
+
+/* Footer part start */
+.main-footer-part{
+    background-color: #002147;
+    min-height: 100px;
+}
+.left-footer-part{
+    padding: 25px;
+    color: #fff;
+}
+.fotter-logo a{
+    text-decoration: none;
+}
+.fotter-logo img{
+    vertical-align: middle;
+    border-style: none;
+    height: 35px;
+    display: inline-block;
+}
+.fotter-logo h2{
+    color: #fff;
+    display: inline;
+    padding-top: 10px;
+    margin: 0px;
+}
+.footer-contnt p{
+    font-size: 13px;
+    line-height: 26px;
+    color: #fff;
+    opacity: .66;
+    margin-top: 35px;
+}
+.footer-social-icon{
+    margin-top: 35px;
+    font-size: 16px;
+    color: #cbcbcb;
+    font-weight: 700;
+    line-height: 1;
+}
+.footer-icon-css a img{  
+    margin: 15px 10px 0px 0px; 
+    height: 18px;
+    width: 18px;
+    color: #cbcbcb !important;
+    font-weight: 700;
+    line-height: 1;
+    /* padding-left: 15px; */
+}
+.middle-footer-part{
+    padding: 25px;
+}
+.midd-top-footer h1{
+    font-size: 24px;
+    color: #fdc800;
+    font-weight: 700;
+    line-height: 1;
+    margin: 0;
+    margin-bottom: 31px;
+}
+.footer-menu ul{
+    padding-left: 0;
+    margin-left: 0;
+    list-style: none;
+}
+.footer-menu ul li {
+    float: left;
+    width: 50%;
+    line-height: 1;
+}
+
+.footer-menu ul li a {
+    font-size: 13px;
+    color: #fff;
+    opacity: .66;
+    padding: 0;
+    display: block;
+    line-height: 1;
+    margin-bottom: 14px;
+    text-decoration: none;
+}
+
+.footer-menu ul li a:hover {
+    color: #fdc800;
+    opacity: 1;
+}
+.right-footer-part{
+    padding: 25px;
+}
+span.footer-published-time {
+    margin-left: 9px;
+    color: #fff;
+}
+
+.single-footer-contact-info span {
+    font-size: 14px;
+    color: #fdc800;
+}
+
+span.footer-contact-list-text {
+    font-size: 13px;
+    color: #fff;
+    opacity: .66;
+    margin-left: 9px;
+}
+
+.single-footer-contact-info {
+    margin-bottom: 5px;
+}
+
+.opening-time span {
+    display: block;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 500;
+    font-family: 'Roboto', sans-serif;
+}
+
+span.opening-date {
+    font-weight: inherit;
+    font-size: 14px;
+    font-family: 'OpenSans', sans-serif;
+    margin-top: 10px;
+}
+
+.opening-time {
+    margin-top: 20px;
+}
+.footer-contact-list img{
+    height: 20px;
+}
+.address-sp{
+    padding-left: 25px;
+}
+.footer-bottom-area{
+    color: #fff;
+    border-top: 1px solid rgb(131, 129, 129);
+    padding: 20px 15px;
+    font-size: 14px;
+}
+/* Footer part End */
+
+.section_heading h1{
+    color: red;
+    padding-bottom: 10px !important;
+}

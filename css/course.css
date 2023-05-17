@@ -1,0 +1,71 @@
+#hader{
+    display: block;
+    background: rgb(253, 245, 245);
+    padding-bottom: 60px;
+}
+#top-graphic-part{
+    padding-top: 54px;
+    padding-bottom: 54px;
+    position: relative;
+}
+.font{
+    font-family: Li Liakat Tawhid Unicode;
+    font-size: 60px;
+    padding-bottom: 30px;
+}
+.top-g{
+    width: 190px !important;
+    text-align: center;
+}
+#btn-g{
+    border-radius: 10px;
+    font-size: 20px;
+    background: linear-gradient(214.38deg, #f1f1f1 -8.24%, #7fa1c0 59.38%);
+    color: rgb(0, 0, 0);
+}
+.font-p{
+    font-family: Roboto,"Noto Sans Bengali",sans-serif;
+    padding-top: 15px;
+    padding-bottom: 35px;
+}
+#btn-vs{
+    border-radius: 10px;
+    font-size: 20px;
+    background: linear-gradient(214.38deg, #3ef108 -8.24%, #dacc0c 59.38%);
+    color: rgb(0, 0, 0);
+}
+a{
+    text-decoration: none;
+}
+.top-v{
+    text-align: center;
+    width: 80px !important;
+}
+.col-vs{
+    flex-basis: 80px;
+}
+.c-img{
+    padding-top: 50px;
+}
+.course-img{
+    width: 600px;
+    border-radius: 20px;
+}
+.mid-graphic-part{
+    padding-bottom: 54px;
+}
+.curriculum-list{
+    background: #efe8f1;
+    border-radius: 20px;
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+.top-hsc{
+    text-align: center;
+    font-weight: bold;
+    font-size: 18px !important;
+}
+ul li {
+    list-style: none;
+    padding-bottom: 8px;
+}

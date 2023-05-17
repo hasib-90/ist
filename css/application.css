@@ -1,0 +1,84 @@
+.application-home {
+    padding: 35px;
+
+}
+.toppart-application{
+    text-align: center;
+}
+.application-home h1{
+    font-size: 60px;
+    color: rgb(15, 75, 0);
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.application-home h4{
+    font-weight: bold;
+    font-size: 35px;  
+}
+
+table{
+	width:100%;
+		
+}
+th,td{
+	height:38px;
+}
+th{
+	text-align:left;
+}
+
+
+.signup{
+    width:50%;
+    height:auto;
+    margin:30px auto;	
+    }
+    
+    .signup input[type="text"]{
+        width: 341px;
+        height: 35px;
+        border-radius: 3px;
+        margin-top: 10px;
+        border: 1px solid blue;
+        font-size: 16px;
+        padding: 4px;
+        font-family: 'myriad pro';
+    }
+    .signup input[type="password"]{
+        width: 341px;
+        height: 35px;
+        border-radius: 3px;
+        margin-top: 10px;
+        border: 1px solid blue;
+        font-size: 16px;
+        padding: 4px;
+        font-family: 'myriad pro';
+    }
+    
+    .signup input[type="submit"]{
+            width: 157px;
+        border-radius: 3px;
+        margin-top: 10px;
+        border: 1px solid blue;
+        background: blue;
+        color: #fff;
+        font-size: 16px;
+        padding: 14px;
+        font-family: 'myriad pro';
+        margin-left: 100%;
+        cursor:pointer;	
+    }
+    #disabledSelect{
+        width: 83% !important;
+        margin-top: 10px !important;
+    }
+    .date{
+        width: 341px;
+        height: 35px;
+        border-radius: 3px;
+        margin-top: 10px;
+        border: 1px solid blue;
+        font-size: 16px;
+        padding: 4px;
+        font-family: 'myriad pro';
+    }

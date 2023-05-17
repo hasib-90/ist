@@ -1,0 +1,49 @@
+.contentedi{
+    background-color: rgb(241, 241, 241);
+}
+.contacth1{
+    color: #cf0000;
+    font-family: Hind Siliguri;
+    font-size: 45px;
+    font-weight: 600;
+    line-height: 54px;
+    padding: 80px 0px 29px 0px;
+}
+.main-map{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.office-address{
+    margin-top: 80px;
+    padding-left: 35px;
+}
+.addressh1{
+    /* margin-top: 80px; */
+    font-weight: bold;
+    color: #cf0000;
+}
+.phone-number{
+    margin-top: 30px;
+    font-family: kalpurush;
+}
+.contact-form-short{
+    font-family: kalpurush;
+    color: rgb(51, 50, 50);
+    margin-top: 60px;
+    padding-bottom: 50px;
+    text-align: center;
+}
+.pb-5{
+    padding-top: 25px !important;
+}
+.btn-formSend{
+    border-radius: 10px;
+    padding: 14px 48px;
+    font-size: 20px;
+    background: linear-gradient(214.38deg, #ff8079 -2.24%, #ff1e1e 59.38%);
+    color: #fff;
+    font-weight: bolder;
+}
+#admission{
+    background: rgb(185, 183, 183) !important;
+}
